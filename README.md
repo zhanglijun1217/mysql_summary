@@ -1,0 +1,5 @@
+# mysql_summary
+mysql相关知识总结
+
+## mysql_explain_learning
+mysql的查询优化一直是一个很重要的点，很多慢查询和索引的优化都是要靠explain的执行计划去为观察标准的，所以这里去记录下explain的学习。
